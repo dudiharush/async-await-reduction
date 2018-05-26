@@ -3,5 +3,6 @@ Using "bluebird"'s Promise.reduce function and async await to accumulate async v
 
 install:
 1. npm insall
+
 run:
 2. node index
