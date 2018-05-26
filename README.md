@@ -1,8 +1,7 @@
 # async-await-reduction
 Using "bluebird"'s Promise.reduce function and async await to accumulate async values.
 
-install:
+Install and run:
 1. npm insall
 
-run:
 2. node index
