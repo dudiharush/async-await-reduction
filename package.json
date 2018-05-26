@@ -1,0 +1,7 @@
+{
+    "name": "async-await-reduction",
+    "main": "index.js",
+    "dependencies": {
+        "bluebird": "^3.5.1"
+    }
+}
